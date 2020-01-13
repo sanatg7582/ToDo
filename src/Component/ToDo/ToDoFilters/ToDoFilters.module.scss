@@ -1,0 +1,16 @@
+.filterContainer {
+  padding: 10px 40px;
+  display: flex;
+  justify-content: space-between;
+  .buttonSection{
+    width: 75%;
+  }
+  .searchSection{
+    width: 50%;
+    margin-right: 68px;
+  }
+  input{
+    width: 100%;
+    margin-top: 10px;
+  }
+}
